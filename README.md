@@ -1,7 +1,6 @@
 # banco-carrefour-desafio-dataproc
 
-## BootCamp DIO - Data Engineer Carrefour
-### Desafio | dataproc | Google Cloud
+## BootCamp DIO - Data Engineer Carrefour - Digital Inovation One
 #### Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud
 ##### Dez palavras que mais aparecem no [*livro*](https://github.com/allanbraquiel/banco-carrefour-desafio-dataproc/blob/main/livro.txt): [*resultado*](https://github.com/allanbraquiel/banco-carrefour-desafio-dataproc/blob/main/resultado.txt)
 
